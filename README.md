@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hey there! 🙋
+
 I'm Apoorv, a third-year B.Tech student specializing in Artificial Intelligence at GHRCEM, Nagpur, India.
 My main tech stack is Python, C, and C++.
 I'm certified in Oracle Fusion AI Agent Studio and have completed a C++ course on CodeChef.
