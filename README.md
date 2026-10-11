@@ -1,18 +1,13 @@
 ## Hi there 👋
 Hey there! 🙋
-
 I'm Apoorv, a third-year B.Tech student specializing in Artificial Intelligence at GHRCEM, Nagpur, India.
-
 My main tech stack is Python, C, and C++.
-
 I'm certified in Oracle Fusion AI Agent Studio and have completed a C++ course on CodeChef.
 
 I've built a School Management System, a console app in Python using OOP and a menu-driven interface.
-
 I'm currently preparing for placements. If you want to reach me, my email is ganbhojapoorv@gmail.com.
 
 Fun Facts:
-
 I listen business podcast alongside my technical learning
 
 <!--
